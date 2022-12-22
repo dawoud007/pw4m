@@ -409,6 +409,30 @@
             position: relative;
         }
 
+.api{
+            width:90%;
+            background-color: #005757;
+            border-radius: 50px;
+            height: 15px;
+            position: relative;
+        }
+
+.react {
+            width:90%;
+            background-color: #005757;
+            border-radius: 50px;
+            height: 15px;
+            position: relative;
+        }
+
+.oop {
+            width:90%;
+            background-color: #005757;
+            border-radius: 50px;
+            height: 15px;
+            position: relative;
+        }
+
         .wp {
             width: 80%;
             background-color: #005757;
